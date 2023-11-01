@@ -140,7 +140,6 @@
         </c:forEach>
     </ul>
 </nav>
-</div>
 <!-- Content Close -->
 
 <!-- Footer Start -->

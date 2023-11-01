@@ -161,7 +161,7 @@
         </div>
     </div>
 </div>
-    <script async type="text/javascript" src="${path1 }/resources/js/bulma.js"></script>
 <jsp:include page="../include/footer.jsp" />
+<script async type="text/javascript" src="${path1 }/resources/js/bulma.js"></script>
 </body>
 </html>

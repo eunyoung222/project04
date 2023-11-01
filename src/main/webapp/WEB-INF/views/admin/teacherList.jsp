@@ -197,6 +197,7 @@
         </div>
     </div>
 </div>
+<jsp:include page="../include/footer.jsp"/>
 <script async type="text/javascript" src="${path1 }/resources/js/bulma.js"></script>
 <!-- 버튼을 클릭했을 때 모달을 열도록 합니다 -->
 <script>
@@ -224,7 +225,5 @@
         //});
     });
 </script>
-
-<jsp:include page="../include/footer.jsp"/>
 </body>
 </html>

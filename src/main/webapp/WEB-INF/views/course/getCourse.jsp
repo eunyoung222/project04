@@ -376,6 +376,7 @@
         </div>
     </div>
 </div>
+<jsp:include page="../include/footer.jsp"></jsp:include>
 <script>
     $(window).scroll(function(){
         $(".menu-list").css("margin-top",Math.max(-250,0-$(this).scrollTop()));
@@ -444,7 +445,6 @@
     });
 </script>
 <!-- 푸터 부분 인클루드 -->
-<jsp:include page="../include/footer.jsp"></jsp:include>
 </body>
 </html>
 

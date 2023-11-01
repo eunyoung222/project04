@@ -127,6 +127,9 @@
     <br>
 </div>
 
+<!-- 푸터 부분 인클루드 -->
+<jsp:include page="../include/footer.jsp"></jsp:include>
+
 <script>
     var acc = document.getElementsByClassName("accordion");
     var i;
@@ -147,7 +150,6 @@
     }
 </script>
 
-<!-- 푸터 부분 인클루드 -->
-<jsp:include page="../include/footer.jsp"></jsp:include>
+
 </body>
 </html>

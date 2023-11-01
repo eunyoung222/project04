@@ -226,8 +226,6 @@
         </c:forEach>
     </ul>
 </nav>
-
-
 <!-- Footer Start -->
 <jsp:include page="../include/footer.jsp" />
 <!-- Footer Close -->

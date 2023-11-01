@@ -137,8 +137,8 @@
             </div>
         </div>
     </div>
-
-    </div>
+</div>
+<jsp:include page="../../include/footer.jsp" />
 <script>
     function checkLogin() {
         var confirmLogin = confirm("글 작성은 로그인이 필요해요! 로그인하시겠어요?");
@@ -148,7 +148,6 @@
     }
 </script>
 
-<jsp:include page="../../include/footer.jsp" />
 <script async type="text/javascript" src="${path1 }/resources/js/bulma.js"></script>
 </body>
 </html>

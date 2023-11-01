@@ -189,8 +189,8 @@
       </div>
     </div>
   </div>
+    <jsp:include page="../include/footer.jsp" />
   <script async type="text/javascript" src="${path1 }/resources/js/bulma.js"></script>
 </div>
-<jsp:include page="../include/footer.jsp" />
 </body>
 </html>

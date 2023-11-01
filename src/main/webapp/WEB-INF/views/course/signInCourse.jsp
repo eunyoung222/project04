@@ -511,6 +511,7 @@
         </div>
     </div>
 </div>
+<jsp:include page="../include/footer.jsp"></jsp:include>
 <script>
     // DOM 요소를 가져오는 함수
     function getElement(id) {
@@ -691,9 +692,6 @@
         }
     }
 </script>
-
-<!-- 푸터 부분 인클루드 -->
-<jsp:include page="../include/footer.jsp"></jsp:include>
 </body>
 </html>
 
